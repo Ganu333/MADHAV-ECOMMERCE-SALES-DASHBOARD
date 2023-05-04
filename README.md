@@ -14,5 +14,7 @@
 3) Yearly profit distribution ?
 4) Contribution of payment modes? 
 
-## Report 
+# Link of Dashboard:
+* Link:https://www.novypro.com/project/sales-report-38
+
 ![Madhav Sales Dashboard](https://user-images.githubusercontent.com/120369181/235859278-6e091d33-a38d-4c79-ab47-40a8c41b9b47.png)
